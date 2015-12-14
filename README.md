@@ -31,7 +31,7 @@ Assumptions:
 
 Development
 
-The project is developed as a SE Java application, with only the JRE library and another one I added for String utility methods (see note at the bottom).
+The project is developed as a SE Java application, with only the JRE library and another one I added for String utility methods (see note at the bottom). It consists in two bean classes representing the objects "Stock" and "Trade" (StockBean.java, TradeBean.java), a "service" class that calculates the values asked by the user (FinancialManager.java) and a main class that starts the program and manage the interactions with the user (MainMenu.java).
 
 I didn't know if no user interface at all was required or a textual one was needed, therefore i developed the little java program with a textual interface (it was fun, although it would have required more time to really make it user-safe).
 

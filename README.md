@@ -26,8 +26,8 @@ Constraints & Notes:
 
 Assumptions:
 
-    In the formulas given there are references to a ticker price not present in the example data, I assumed it being a basic property of every stock.
-    Regarding the GBCE all share index, I assumed the prices of the stocks in the geometric mean being the stock price calculated over the last 15 minutes trades (as in the other point of the exercise) for every stock.
+- In the formulas given there are references to a ticker price not present in the example data, I assumed it being a basic property of every stock.
+- Regarding the GBCE all share index, I assumed the prices of the stocks in the geometric mean being the stock price calculated over the last 15 minutes trades (as in the other point of the exercise) for every stock.
 
 Development
 
